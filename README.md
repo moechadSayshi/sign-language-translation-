@@ -1,4 +1,4 @@
-# sign language translation using open cv and tensorflow
+# sign language Detection using open cv and tensorflow
 
 ## project overview
 
